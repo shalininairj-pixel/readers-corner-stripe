@@ -16,7 +16,7 @@ Stack: Node.js, Express, plain HTML/CSS/JavaScript (no build step), Stripe Node 
 
 ```bash
 # 1. Get the code
-git clone <your-repo-url>
+git clone <https://github.com/shalininairj-pixel/readers-corner-stripe>
 cd bookstore
 
 # 2. Install dependencies
